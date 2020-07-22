@@ -1,0 +1,4 @@
+STM32参考手册，数据手册是学习STM32必备的资料，请配合教程学习。
+
+STM32官方资料下载地址：
+http://www.stmcu.org/document/list/index/category-658
